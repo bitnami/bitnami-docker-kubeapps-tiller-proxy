@@ -4,4 +4,4 @@ COPY rootfs /
 
 EXPOSE 8080
 
-CMD [ "/tiller-proxy" ]
+CMD [ "/proxy" ]
