@@ -15,9 +15,6 @@ $ docker run --name kubeapps-tiller-proxy bitnami/kubeapps-tiller-proxy:latest
 * Bitnami closely tracks upstream source changes and promptly publishes new versions of this image using our automated systems.
 * With Bitnami images the latest bug fixes and features are available as soon as possible.
 * Bitnami containers, virtual machines and cloud images use the same components and configuration approach - making it easy to switch between formats based on your project needs.
-* Bitnami images are built on CircleCI and automatically pushed to the Docker Hub.
-* All our images are based on [minideb](https://github.com/bitnami/minideb) a minimalist Debian based container image which gives you a small base container image and the familiarity of a leading linux distribution.
-* Bitnami container images are released daily with the latest distribution packages available.
 
 [![Anchore Image Overview](https://anchore.io/service/badges/image/17b93b3b61b73d94e0753d039d9137e2139a0a42e3ea266aba2ed98b5bffc0c8)](https://anchore.io/image/dockerhub/bitnami%2Fkubeapps-tiller-proxy%3Alatest#security)
 
