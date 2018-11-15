@@ -1,0 +1,4 @@
+version: '2'
+services:
+  kubeapps-tiller-proxy:
+    image: bitnami/kubeapps-tiller-proxy:1-scratch
