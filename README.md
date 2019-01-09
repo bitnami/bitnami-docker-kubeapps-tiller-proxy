@@ -19,9 +19,8 @@ $ docker run --name kubeapps-tiller-proxy bitnami/kubeapps-tiller-proxy:latest
 * With Bitnami images the latest bug fixes and features are available as soon as possible.
 * Bitnami containers, virtual machines and cloud images use the same components and configuration approach - making it easy to switch between formats based on your project needs.
 
-[![Anchore Image Overview](https://anchore.io/service/badges/image/fbd19664837f46f7fb17d3c8bf65dd02ecf13ac9533db0384a523bec3f0f401e)](https://anchore.io/image/dockerhub/bitnami%2Fkubeapps-tiller-proxy%3Alatest#security)
 
-> The image overview badge contains a security report with all open CVEs. Click on 'Show only CVEs with fixes' to get the list of actionable security issues.
+> This [CVE scan report](https://quay.io/repository/bitnami/kubeapps-tiller-proxy?tab=tags) contains a security report with all open CVEs. To get the list of actionable security issues, find the "latest" tag, click the vulnerability report link under the corresponding "Security scan" field and then select the "Only show fixable" filter on the next page.
 
 # How to deploy Kubeapps Tiller Proxy in Kubernetes?
 
@@ -36,7 +35,7 @@ Non-root container images add an extra layer of security and are generally recom
 Learn more about the Bitnami tagging policy and the difference between rolling tags and immutable tags [in our documentation page](https://docs.bitnami.com/containers/how-to/understand-rolling-tags-containers/).
 
 
-* [`1-scratch`, `1.1.0-scratch-r0`, `1`, `1.1.0`, `1.1.0-r0`, `latest` (1/scratch/Dockerfile)](https://github.com/bitnami/bitnami-docker-kubeapps-tiller-proxy/blob/1.1.0/1/scratch/Dockerfile)
+* [`1-scratch`, `1.1.0-scratch-r1`, `1`, `1.1.0`, `1.1.0-r1`, `latest` (1/scratch/Dockerfile)](https://github.com/bitnami/bitnami-docker-kubeapps-tiller-proxy/blob/1.1.0/1/scratch/Dockerfile)
 
 # Configuration
 
@@ -58,7 +57,7 @@ If you encountered a problem running this container, you can file an [issue](htt
 
 # License
 
-Copyright (c) 2018 Bitnami
+Copyright (c) 2019 Bitnami
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
