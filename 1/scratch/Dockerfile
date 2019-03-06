@@ -5,4 +5,5 @@ COPY rootfs /
 
 EXPOSE 8080
 
+USER 1001
 CMD [ "/proxy" ]
