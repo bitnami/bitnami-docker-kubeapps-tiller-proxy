@@ -1,1 +1,7 @@
-{"kubeapps-tiller-proxy": {"digest": "51ef963c21c3652ac99d0a8b2a8c3ff07a58bfa0b2fcba383539b4aae21a75ef", "type": "BLACKSMITH", "version": "1.11.0"}}
+{
+    "kubeapps-tiller-proxy": {
+        "digest": "301c84577a26d4359be4de52f303e297d815914aae73c503d5bd5b087aba2e56",
+        "type": "BLACKSMITH",
+        "version": "1.11.1"
+    }
+}
