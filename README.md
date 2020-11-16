@@ -1,3 +1,5 @@
+# **DEPRECATED** - no longer actively maintained
+
 # What is Kubeapps Tiller Proxy?
 
 > Kubeapps Tiller Proxy is one of the main components of Kubeapps, a Web-based application deployment and management tool for Kubernetes clusters.
